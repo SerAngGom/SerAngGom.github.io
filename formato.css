@@ -4,3 +4,8 @@ h1{color: blue;}
 
 #buenas {color:  red;
 background-color: pink;}
+
+#mod .dentro em{
+	color:  yellow;
+	background-color: purple;
+}
